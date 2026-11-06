@@ -1,0 +1,6 @@
+{
+  "name": "ExamBrief",
+  "description": "Premium, minimal, dark-first Android semester exam preparation companion with syllabus tracking, active focus timer, Pomodoro, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
